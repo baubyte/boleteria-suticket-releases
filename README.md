@@ -1,2 +1,2 @@
-# boleteria-suticket
-Instaladores para la Boleteria Suticket
+# Boleteria SuTicket
+Aplicaciones de escritorio para la Boleteria SuTicket
